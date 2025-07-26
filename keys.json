@@ -14,6 +14,13 @@
     "allowOffline": false
   },
   {
+    "id": "92962eba2d1c121b",
+    "username": "zbook3",
+    "password": "12345",
+    "expiresAt": "2026-07-14",
+    "allowOffline": false
+  },
+  {
     "id": "0",
     "username": "dolphin",
     "password": "12345",
