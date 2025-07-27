@@ -1,20 +1,20 @@
 [
   {
-    "id": "92962eba2d1c121b",
+    "id": "0",
     "username": "zbook",
     "password": "12345",
     "expiresAt": "2026-08-14",
     "allowOffline": false
   },
   {
-    "id": "92962eba2d1c121b",
+    "id": "0",
     "username": "zbook2",
     "password": "12345",
     "expiresAt": "2026-07-14",
     "allowOffline": false
   },
   {
-    "id": "92962eba2d1c121b",
+    "id": "0",
     "username": "zbook3",
     "password": "12345",
     "expiresAt": "2026-07-14",
