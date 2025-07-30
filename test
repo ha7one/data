@@ -18,7 +18,7 @@
     "username": "admin2",
     "password": "admin2",
     "expiresAt": "2026-12-31",
-    "static": false
+    "static": true
   },
   {
     "ID": "0",
