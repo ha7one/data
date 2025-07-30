@@ -13,6 +13,13 @@
     "expiresAt": "2026-12-31",
     "static": true
   },
+{
+    "ID": "b9c18efd3b02ca0b",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2026-12-31",
+    "static": true
+  },
   {
     "ID": "b9c18efc4b02ca0c",
     "username": "user2",
