@@ -1,8 +1,8 @@
 [
   {
     "ID": "0",
-    "username": "user1",
-    "password": "pass1",
+    "username": "user",
+    "password": "0000",
     "expiresAt": "2025-12-31",
     "static": true
   },
