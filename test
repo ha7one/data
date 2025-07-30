@@ -15,8 +15,8 @@
   },
 {
     "ID": "b9c18efd3b02ca0b",
-    "username": "admin",
-    "password": "admin",
+    "username": "admin2",
+    "password": "admin2",
     "expiresAt": "2026-12-31",
     "static": true
   },
