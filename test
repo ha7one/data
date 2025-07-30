@@ -23,8 +23,8 @@
   {
     "ID": "0",
     "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2024-06-30",
+    "password": "0000",
+    "expiresAt": "2026-06-30",
     "static": false
   },
   {
