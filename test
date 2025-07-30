@@ -29,9 +29,9 @@
   },
   {
     "ID": "0",
-    "username": "vip_user",
-    "password": "vip_pass",
-    "expiresAt": "2024-12-31",
-    "static": true
+    "username": "user3",
+    "password": "user3",
+    "expiresAt": "2025-12-31",
+    "static": false
   }
 ]
