@@ -1,0 +1,20 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "expiresAt": "2023-12-31",
+    "static": true
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2024-06-30",
+    "static": false
+  },
+  {
+    "username": "vip_user",
+    "password": "vip_pass",
+    "expiresAt": "2024-12-31",
+    "static": true
+  }
+]
