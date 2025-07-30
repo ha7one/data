@@ -3,7 +3,7 @@
     "ID": "0",
     "username": "admin",
     "expiresAt": "2025-12-31",
-    "static": true
+    "static": false
   },
   {
     "ID": "0",
