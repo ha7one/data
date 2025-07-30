@@ -1,19 +1,29 @@
 [
   {
-    "username": "admin",
-    "password": "admin",
-    "expiresAt": "2025-12-31",
+    "ID": "0",
+    "username": "user1",
+    "password": "pass1",
+    "expiresAt": "2023-12-31",
     "static": true
   },
   {
-    "username": "user",
-    "password": "0000",
-    "expiresAt": "2025-07-32",
+    "ID": "b9c17eac4b02ca0c",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2026-12-31",
+    "static": true
+  },
+  {
+    "ID": "b9c18efc4b02ca0c",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2024-06-30",
     "static": false
   },
   {
-    "username": "user2",
-    "password": "0000",
+    "ID": "b9c18efc4b02ca0d",
+    "username": "vip_user",
+    "password": "vip_pass",
     "expiresAt": "2024-12-31",
     "static": true
   }
