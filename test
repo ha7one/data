@@ -1,13 +1,13 @@
 [
 {
     "ID": "b9c18efc4b02ca0c",
-    "username": "admin2",
+    "username": "admin",
     "expiresAt": "2025-12-31",
     "static": true
   },
   {
     "ID": "0",
-    "username": "admin",
+    "username": "user",
     "expiresAt": "2025-12-31",
     "static": true
   },
@@ -15,12 +15,12 @@
     "ID": "0",
     "username": "user1",
     "expiresAt": "2025-12-31",
-    "static": true
+    "static": false
   },
   {
     "ID": "1234567890abcdef",
     "username": "user2",
-    "expiresAt": "2024-12-31",
-    "static": false
+    "expiresAt": "2025-12-31",
+    "static": true
   }
 ]
