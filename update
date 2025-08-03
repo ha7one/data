@@ -1,7 +1,7 @@
 {
-  "version": 1234,
+  "version": 1.0,
   "title": "توفر تحديد جديد",
-  "subtitle": "توفر تحديث جديد للأداء اصلاح مشاكل",
-  "closeButton": false,
+  "subtitle": "توفر تحديث جديد للأداة اصلاح مشاكل العناصر للمزيد من  التفاصيل اضغط تحديث وسوف يوجهك للتطبيق مباشر",
+  "closeButton": true,
   "link": "https://t.me/museeqar/89"
 }
