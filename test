@@ -33,6 +33,6 @@
     "ID": "0",
     "username": "user4",
     "expiresAt": "2025-12-31",
-    "static": true
+    "static": false
   }
 ]
