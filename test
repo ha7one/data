@@ -3,7 +3,7 @@
     "ID": "e51b7db80a334f0c",
     "username": "admin",
     "expiresAt": "2026-4-31",
-    "static": false
+    "static": true
   },
   {
     "ID": "0",
