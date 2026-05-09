@@ -1,38 +1,26 @@
 [
-{
+  {
     "ID": "e51b7db80a334f0c",
     "Username": "admin",
-    "Expires": "2024-4-31",
-    "Active": true
+    "Expires": "2030-12-31",
+    "Active": "on"
   },
   {
-    "ID": "0",
-    "Username": "user",
-    "Expires": "2025-12-31",
-    "Active": false
-  },
-{
-    "ID": "0",
+    "ID": "e51b7db80a334f0c",
     "Username": "user1",
-    "Expires": "2024-12-31",
-    "Active": true
+    "Expires": "2028-06-15",
+    "Active": "on"
   },
   {
-    "ID": "0",
+    "ID": "e51b7db80a334f0c",
     "Username": "user2",
-    "Expires": "2025-12-31",
-    "Active": false
+    "Expires": "2028-06-15",
+    "Active": "off"
   },
   {
-    "ID": "9876543210fedcba",
+    "ID": "e51b7db80a334f0c",
     "Username": "user3",
-    "Expires": "2025-12-31",
-    "Active": true
-  },
-{
-    "ID": "0",
-    "Username": "user4",
-    "Expires": "2024-12-31",
-    "Active": false
+    "Expires": "2025-08-10",
+    "Active": "on"
   }
 ]
