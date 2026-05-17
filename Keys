@@ -82,9 +82,9 @@
     "Username": "user6",
     "Msg": "اشتراك تجريبي",
     "Active": "on",
-    "Expires": "2026-05-17 03:44 AM",
+    "Expires": "2026/05/17 03:44 AM",
     "Type": "Trail",
-    "Note": "اشتراك تجريبي 3 دقائق",
+    "Note": "اشتراك منتهي",
     "CreatedBy": "Dolphin",
     "CreatedAt": "2026-05-16"
   },
@@ -93,9 +93,9 @@
     "Username": "user7",
     "Msg": "اشتراك تجريبي",
     "Active": "on",
-    "Expires": "06:49 AM",
+    "Expires": "2026/05/17 10:44 AM",
     "Type": "Trail",
-    "Note": "اشتراك تجريبي 3 دقائق",
+    "Note": "اشتراك لمدة 4 ساعات",
     "CreatedBy": "Dolphin",
     "CreatedAt": "2026-05-16"
   }
