@@ -1,0 +1,102 @@
+[
+  {
+    "ID": "0",
+    "Username": "admin",
+    "Msg": "✅ تم تسجيل دخولك بحساب الأدارة بنجاح",
+    "Active": "off",
+    "Expires": "lifetime",
+    "Type": "VIP Plus",
+    "Note": "حساب الأدارة الرئيسي",
+    "Hint": "حساب الأدارة غير مربوط الان ومتوقف لأسباب أمنية",
+    "CreatedBy": "Adminstartor",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "fbed3198e3b0d860",
+    "Username": "Dolphin",
+    "Msg": "اهلاً بك عزيزي المطور",
+    "Active": "on",
+    "Expires": "lifetime",
+    "Type": "Developer",
+    "Note": "حساب المطور Dolphin",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "0",
+    "Username": "user1",
+    "Msg": "1 اهلاً بك عزيزي المستخدم",
+    "Active": "on",
+    "Expires": "2026-06-16",
+    "Type": "Premium",
+    "Note": "أشتراك شهري",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "0",
+    "Username": "user2",
+    "Msg": "للمزيد من المعلومات يرجى التواصل مع الدعم إو المطور",
+    "Active": "off",
+    "Expires": "2028-06-15",
+    "Type": "Premium",
+    "Note": "اشتراك متفعل لاكن متوقف من لوحة السيرفر",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "0",
+    "Username": "user3",
+    "Msg": "اهلا بك عزيزي المستخدم 3",
+    "Active": "on",
+    "Expires": "2026-05-10",
+    "Type": "Trial Plus",
+    "Note": "أشتراك أسبوع منتهي الصلاحية",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "a01",
+    "Username": "user4",
+    "Msg": "اهلا بك عزيزي المستخدم 4",
+    "Active": "on",
+    "Expires": "2026-06-15",
+    "Type": "Premium",
+    "Note": "أشتراك شهري مربوط",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "0",
+    "Username": "user5",
+    "Msg": "هذا الأشتراك صالح لمدة يوم واحد",
+    "Active": "on",
+    "Expires": "2026-05-18",
+    "Type": "Trail 1 Day",
+    "Note": "اشتراك تجريبي يوم واحد",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "0",
+    "Username": "user6",
+    "Msg": "اشتراك تجريبي",
+    "Active": "on",
+    "Expires": "2026/05/17 03:44 AM",
+    "Type": "Trail",
+    "Note": "اشتراك منتهي",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-17"
+  },
+  {
+    "ID": "0",
+    "Username": "user7",
+    "Msg": "اشتراك تجريبي",
+    "Active": "on",
+    "Expires": "2026/05/17 10:44 AM",
+    "Type": "Trail",
+    "Note": "اشتراك لمدة 4 ساعات",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-17"
+  }
+]
