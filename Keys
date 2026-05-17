@@ -76,5 +76,16 @@
     "Note": "اشتراك تجريبي يوم واحد",
     "CreatedBy": "Dolphin",
     "CreatedAt": "2026-05-16"
+  },
+  {
+    "ID": "0",
+    "Username": "user6",
+    "Msg": "اشتراك تجريبي",
+    "Active": "on",
+    "Expires": "2026-05-17 03:18 PM",
+    "Type": "Trail",
+    "Note": "اشتراك تجريبي 3 دقائق",
+    "CreatedBy": "Dolphin",
+    "CreatedAt": "2026-05-16"
   }
 ]
