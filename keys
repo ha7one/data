@@ -12,13 +12,13 @@
     "CreatedAt": "2026-05-16"
   },
   {
-    "ID": "fbed3198e3b0d860",
+    "ID": "8ad1d866f2183f9c",
     "Username": "Dolphin",
     "Msg": "اهلاً بك عزيزي المطور",
     "Active": "on",
     "Expires": "lifetime",
     "Type": "Developer",
-    "Note": "حساب المطور Dolphin",
+    "Note": "حساب المطور - داخل المحاكي Dolphin",
     "CreatedBy": "Dolphin",
     "CreatedAt": "2026-05-16"
   },
@@ -82,7 +82,7 @@
     "Username": "user6",
     "Msg": "اشتراك تجريبي",
     "Active": "on",
-    "Expires": "2026-05-17 03:44 AM",
+    "Expires": "2026-05-17 03:44 ص",
     "Type": "Trail",
     "Note": "اشتراك منتهي",
     "CreatedBy": "Dolphin",
@@ -93,7 +93,7 @@
     "Username": "user7",
     "Msg": "اشتراك تجريبي",
     "Active": "on",
-    "Expires": "2026-05-17 10:44 AM",
+    "Expires": "2026-05-17 10:44 ص",
     "Type": "Trail",
     "Note": "اشتراك لمدة 4 ساعات",
     "CreatedBy": "Dolphin",
