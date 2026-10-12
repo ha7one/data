@@ -3,18 +3,18 @@
     "ID": "0",
     "Username": "admin",
     "Msg": "✅ تم تسجيل دخولك بحساب الأدارة بنجاح",
-    "Active": "on",
+    "Active": "off",
     "Expires": "lifetime",
     "Note": "حساب الأدارة الرئيسي",
     "Hint": "حساب الأدارة غير مربوط الان ومتوقف لأسباب أمنية"
   },
   {
-    "ID": "8ad1d866f2183f9c",
+    "ID": "020c1ac8aad9341b",
     "Username": "Dolphin",
     "Msg": "اهلاً بك عزيزي المطور",
-    "Active": "off",
+    "Active": "on",
     "Expires": "lifetime",
-    "Note": "حساب المطور - داخل المحاكي Dolphin"
+    "Note": "حساب المطور Dolphin"
   },
   {
     "ID": "0",
