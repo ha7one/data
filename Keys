@@ -13,7 +13,7 @@
     "Username": "Dolphin",
     "Msg": "اهلاً بك عزيزي المطور",
     "Active": "on",
-    "Expires": "lifetime",
+    "Expires": "2027-05-18",
     "Note": "حساب المطور Dolphin"
   },
   {
@@ -21,7 +21,7 @@
     "Username": "user1",
     "Msg": "اهلا بك عزيزي المستخدم 1",
     "Active": "on",
-    "Expires": "2027-05-18 09:40 م",
+    "Expires": "2027-05-18",
     "Note": "اشتراك لمدة 2 دقيقة"
   }
 ]
